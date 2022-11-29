@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-platzi-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luisf718/async-landing-platzi-course.git"
+  },
+  "keywords": [],
+  "author": "Luis Tapia <luis.fer.0987654@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luisf718/async-landing-platzi-course/issues"
+  },
+  "homepage": "https://github.com/Luisf718/async-landing-platzi-course#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
